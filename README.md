@@ -3,9 +3,6 @@
 * Грачев Е.С.
 * Овсянкина О.В.
 * Демидова Д.О.
-### Genious team
 
 # Dream team
-=======
 ### Genious team 
-## commit
