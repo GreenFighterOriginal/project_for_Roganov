@@ -1,4 +1,4 @@
-# project_for_Roganov
+# project_for_Rogonov
 ## Creators:
 * Грачев Е.С.
 * Овсянкина О.В.
